@@ -23,6 +23,6 @@ This project demonstrates data cleaning, transformation, and analysis of an e-co
 4. Optional: export results as `.csv` for reports or visualization
 
 ## Contact
-- [Telegram[https://t.me/Poiow]] 
+- [Telegram](https://t.me/Poiow) 
 - [Email[mahyarhajihosseini@gmail.com]]
 - LinkedIn: [Your LinkedIn](#)
