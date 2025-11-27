@@ -24,5 +24,5 @@ This project demonstrates data cleaning, transformation, and analysis of an e-co
 
 ## Contact
 - [Telegram](https://t.me/Poiow) 
-- [Email[mahyarhajihosseini@gmail.com]]
-- LinkedIn: [Your LinkedIn](#)
+- [Email](mahyarhajihosseini@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mahyar-haji-hosseini)
